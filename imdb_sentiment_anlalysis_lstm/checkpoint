@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\python\\projects\\Deep_Learning\\DL_Sentiment_Anlalysis\\sentiment"
+all_model_checkpoint_paths: "D:\\python\\projects\\Deep_Learning\\DL_Sentiment_Anlalysis\\sentiment"
